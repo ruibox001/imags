@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://core.anody.com.cn/down/downloadFile?fileName=PodProject.ipa</string>
+					<string>https://raw.githubusercontent.com/ruibox001/images/master/PodProject.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
